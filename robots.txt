@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zhtw.PocketChampion.cn/sitemap.xml
